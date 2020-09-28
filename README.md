@@ -1,3 +1,5 @@
+[![linkedin badge](https://img.shields.io/badge/rodrigoegimenez-333?logo=linkedin)](https://www.linkedin.com/in/rodrigoegimenez/)
+
 ### Hola, I'm Rodrigo 👋. I'm a chemist turned software engineer. 
 
 I'm a back-end developer working mainly with python frameworks and also a DevOps advocate.
