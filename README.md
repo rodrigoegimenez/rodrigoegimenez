@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola, I'm Rodrigo 👋. I'm a chemist turned software engineer. 
+
+I'm a back-end developer working mainly with python frameworks and also a DevOps advocate.
+
+- 🔭 I’m currently working on writing python packages to add functionality to our company's ecommerce platform. On top of that I'm always working on creating Jenkins and Github Actions workflows to automate our DevOps tasks.
+
+- 🌱 I’m currently learning NestJS, ReactJS and GraphQl APIs. I'm also learning italian and french.
+
 
 <!--
 **rodrigoegimenez/rodrigoegimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
