@@ -1,13 +1,12 @@
 [![linkedin badge](https://img.shields.io/badge/rodrigoegimenez-333?logo=linkedin)](https://www.linkedin.com/in/rodrigoegimenez/)
 
-### Hola, I'm Rodrigo 👋. I'm a chemist turned software engineer. 
+### Hola, I'm Rodrigo 👋. I'm a chemist turned developer. 
 
-I'm a back-end developer working mainly with python frameworks and also a DevOps advocate.
+I'm a full stack engineer and a DevOps advocate.
 
-- 🔭 I’m currently working on writing python packages to add functionality to our company's ecommerce platform. On top of that I'm always working on creating Jenkins and Github Actions workflows to automate our DevOps tasks.
+- 🔭 I’m currently working on full-stack applications combining ExpressJS and Django backends with ReactJS frontends.
 
-- 🌱 I’m currently learning NestJS, ReactJS and GraphQl APIs. I'm also learning italian and french.
-
+- 🌱 I’m currently learning Typescript and adding types to Python code. Also I'm diving myself into testing and all things related, including TDD, BDD, ATDD, and so on.
 
 <!--
 **rodrigoegimenez/rodrigoegimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
