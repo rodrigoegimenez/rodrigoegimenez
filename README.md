@@ -8,6 +8,8 @@ I'm a full stack engineer and a DevOps advocate.
 
 - 🌱 I’m currently learning Typescript and adding types to Python code. Also I'm diving myself into testing and all things related, including TDD, BDD, ATDD, and so on.
 
+- ⚡ I'm an automation enthusiast, if some process can benefit from automation then I'll try to automate it. This has made me dive on the DevOps world. I've been writing Jenkins pipelines, Github Actions and CircleCI configs to aid in the process of building, testing and deploying applications.
+
 <!--
 **rodrigoegimenez/rodrigoegimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
