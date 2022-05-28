@@ -1,8 +1,8 @@
 [![linkedin badge](https://img.shields.io/badge/rodrigoegimenez-333?logo=linkedin)](https://www.linkedin.com/in/rodrigoegimenez/)
 
-### Hola, I'm Rodrigo 👋. I'm a chemist turned developer. 
+### Hola, I'm Rodrigo 👋.
 
-I'm a (Junior) Software Architect, aspiring ML Engineer and DevOps advocate.
+I'm a Backend Software Engineer, ML Engineer and DevOps enthusiast.
 
 <!-- - 🔭 I’m currently working on full-stack applications combining ExpressJS and Django backends with ReactJS frontends.
 
