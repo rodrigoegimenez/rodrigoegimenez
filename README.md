@@ -1,26 +1,12 @@
 [![linkedin badge](https://img.shields.io/badge/rodrigoegimenez-333?logo=linkedin)](https://www.linkedin.com/in/rodrigoegimenez/)
 
-### Hola, I'm Rodrigo 👋.
+Hey there! I'm Rodrigo 🌊, Software Engineer, ML Engineer, and DevOps enthusiast. Here's what sets me apart:
 
-I'm a Backend Software Engineer, ML Engineer and DevOps enthusiast.
+👨‍💻 Back End Developer experienced in Python, PHP and Java.  
+🚀 Full Stack Engineer proficient in NodeJS/Express and ReactJS.  
+📊 Skilled in data analysis with Python, Pandas and the like.  
+⚙️ DevOps enthusiast automating workflows with Jenkins CI, GH Actions, GitLab CI.  
+🎓 Seasoned educator with a background in teaching and mentoring.  
+💡 Passionate about Deep Learning and solving complex problems.
 
-<!-- - 🔭 I’m currently working on full-stack applications combining ExpressJS and Django backends with ReactJS frontends.
-
-- 🌱 I’m currently learning Typescript and adding types to Python code. Also I'm diving myself into testing and all things related, including TDD, BDD, ATDD, and so on.
-
-- ⚡ I'm an automation enthusiast, if some process can benefit from automation then I'll try to automate it. This has made me dive on the DevOps world. I've been writing Jenkins pipelines, Github Actions and CircleCI configs to aid in the process of building, testing and deploying applications. -->
-
-<!--
-**rodrigoegimenez/rodrigoegimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and dive into exciting tech adventures together! 🚀🔥
