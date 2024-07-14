@@ -1,12 +1,7 @@
 [![linkedin badge](https://img.shields.io/badge/rodrigoegimenez-333?logo=linkedin)](https://www.linkedin.com/in/rodrigoegimenez/)
 
-Hey there! I'm Rodrigo 🌊, Software Engineer, ML Engineer, and DevOps enthusiast. Here's what sets me apart:
+I am a Senior Back End Developer with extensive experience in MLOps and software architecture. My background includes a PhD in Chemical Sciences, allowing me to bring a unique blend of scientific rigor and technical expertise to my work. My experience spans from developing robust backend systems and implementing machine learning algorithms to orchestrating end-to-end MLOps pipelines.
 
-👨‍💻 Back End Developer experienced in Python, PHP and Java.  
-🚀 Full Stack Engineer proficient in NodeJS/Express and ReactJS.  
-📊 Skilled in data analysis with Python, Pandas and the like.  
-⚙️ DevOps enthusiast automating workflows with Jenkins CI, GH Actions, GitLab CI.  
-🎓 Seasoned educator with a background in teaching and mentoring.  
-💡 Passionate about Deep Learning and solving complex problems.
+Currently based in Alicante, Spain, I have had the opportunity to work with international companies across Europe, which has enhanced my adaptability and cross-cultural communication skills. I'm proficient in multiple programming languages and frameworks, with particular expertise in Python, Django, and cloud technologies such as AWS and Azure.
 
-Let's connect and dive into exciting tech adventures together! 🚀🔥
+My diverse skill set extends beyond software development. My experience as a university instructor and researcher has honed my ability to analyze complex problems, communicate technical concepts clearly, and work effectively in collaborative environments. I'm passionate about continuous learning and innovation, always striving to stay at the forefront of technological advancements in my field.
