@@ -1,7 +1,21 @@
 [![linkedin badge](https://img.shields.io/badge/rodrigoegimenez-333?logo=linkedin)](https://www.linkedin.com/in/rodrigoegimenez/)
 
-I am a Senior Software Engenier with extensive experience in MLOps and software architecture. My background includes a PhD in Chemical Sciences, allowing me to bring a unique blend of scientific rigor and technical expertise to my work. My experience spans from developing robust backend systems and implementing machine learning algorithms to orchestrating end-to-end MLOps pipelines.
+Senior Software Engineer working mostly on Python backends: APIs, distributed and event-driven systems, and MLOps, shipped to production on AWS. Before software I did a PhD in Chemical Sciences, so I'm at home turning scientific code and models into reliable software.
 
-Currently based in Madrid, Spain, I have had the opportunity to work with international companies across Europe, which has enhanced my adaptability and cross-cultural communication skills. I'm proficient in multiple programming languages and frameworks, with particular expertise in Python, Django, FastAPI, and cloud technologies such as AWS and Azure.
+**What I've worked on**
 
-My diverse skill set extends beyond software development. My experience as a university instructor and researcher has honed my ability to analyze complex problems, communicate technical concepts clearly, and work effectively in collaborative environments. I'm passionate about continuous learning and innovation, always striving to stay at the forefront of technological advancements in my field.
+- Secure REST APIs in FastAPI and Django, with API design and testing (TDD) standards adopted across the team
+- Event-driven services with RabbitMQ, Redis and Celery, and microservices in Python and Kotlin on Kubernetes
+- MLOps: an in-house tool for scheduled retraining of scikit-learn models, and pipelines with Azure ML
+- Integrating a SaaS platform with Microsoft Dynamics for a client proof of concept
+- Full-stack features with React, working directly with the people who use the product
+
+**Tools I reach for**
+
+Python · Django · FastAPI · Vue.js · React · PostgreSQL · Redis · RabbitMQ · Celery · Docker · AWS · GitHub Actions · Claude Code
+
+**How I like to work**
+
+Pragmatically: ship something that works, then iterate with real users. I use AI coding agents every day and review their output like a colleague's pull request. I've worked remotely with teams across Spain, Italy and the Netherlands, in Spanish, English and Italian.
+
+📍 Spain · EU citizen (Italian)
